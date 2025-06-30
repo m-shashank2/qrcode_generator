@@ -23,7 +23,7 @@ A simple, responsive QR Code Generator web app built with HTML, CSS, and JavaScr
 
 ## 📸 Screenshots
 
-![QR GENERATOR] (https://github.com/m-shashank2/qrcode_generator/blob/8c084a9777c63618747a10c5905903378167bb6d/qrcode.png)
+![QR GENERATOR] (https://github.com/m-shashank2/qrcode_generator/raw/8c084a9777c63618747a10c5905903378167bb6d/qrcode.png)
 ## 🛠️ How to Use
 
 1. Clone the repository:
